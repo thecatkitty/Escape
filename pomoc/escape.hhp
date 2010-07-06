@@ -1,0 +1,38 @@
+
+[INFOTYPES]
+
+[OPTIONS]
+Auto Index=No
+Binary Index=Yes
+Binary TOC=No
+Compatibility=1.1 or later
+Compiled File=escape.chm
+Contents File=escape.hhc
+Index File=escape.hhk
+Error log file=escape.log.txt
+Full-text search=Yes
+Language=0x415 Polish
+Title=Centrum Pomocy Gry Matriksoft Escape
+Default Topic=welcome.html
+Default Window=
+Default Font=Arial, 9, 000
+Create CHI file=No
+Full text search stop list file=
+Display compile notes=Yes
+Display compile progress=Yes
+
+[FILES]
+welcome.html
+interface.html
+navigation.html
+full_screen.html
+stop.html
+about.html
+license.html
+gnu_gpl.html
+gnu_gpl_pl.html
+coUAprint.css
+coUA.css
+graj.gif
+home.gif
+escape.gif
