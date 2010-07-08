@@ -1,0 +1,3 @@
+*.iki linguist-detectable=true
+*.iki linguist-documentation=false
+*.iki linguist-language=wiki
